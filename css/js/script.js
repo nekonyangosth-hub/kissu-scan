@@ -1,0 +1,2 @@
+js
+└ script.js
